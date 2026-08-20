@@ -1,0 +1,3 @@
+[submodule "langchain_learning"]
+	path = langchain_learning
+	url = git@github.com:DevangChauhan/langchain_learning.git
